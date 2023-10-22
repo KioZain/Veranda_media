@@ -1,0 +1,35 @@
+body.index {
+  background-color: var(--white);
+  font-family: "PT Root UI";
+  color: #272727;
+
+  section {
+    margin: 25px 50px 0;
+
+    p {
+      font-size: 22px;
+      width: 500px;
+      margin-top: 30px;
+    }
+    span {
+      font-style: italic;
+    }
+    h1 {
+      font-size: 144px;
+      line-height: 120px;
+      font-weight: 500;
+    }
+    h2 {
+      font-size: 50px;
+      margin-top: 15px;
+      font-weight: 500;
+    }
+    a {
+      font-size: 22px;
+      color: rgb(17, 183, 136);
+      text-decoration: none;
+      display: inline-block;
+      margin-bottom: 10px;
+    }
+  }
+}
